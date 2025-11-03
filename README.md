@@ -10,51 +10,53 @@ By developing interactive dashboards and data models, the goal is to uncover act
 ### Project Tasks & Deliverables
 📊 Business Insights & KPI Development
 
--- Calculate total number of customers
+- Calculate total number of customers
 
--- Calculate total revenue
+- Calculate total revenue
 
--- Track daily customer growth rate
+- Track daily customer growth rate
 
--- Track daily revenue growth rate
+- Track daily revenue growth rate
 
--- Monitor month-over-month policy changes to identify business trends
+- Monitor month-over-month policy changes to identify business trends
 
 👥 Customer Segmentation
 
--- Group customers by age category
+- Group customers by age category
 
--- Analyze customer count by city
+- Analyze customer count by city
 
--- Evaluate revenue by city & age group
+- Evaluate revenue by city & age group
 
--- Identify customer behavior across age segments
+- Identify customer behavior across age segments
 
 📈 Trend & Performance Analysis
 
--- Build trend visuals for:
+- Build trend visuals for:
 
--- Revenue over time
+- Revenue over time
 
--- Customer growth over time
+- Customer growth over time
 
--- Implement a toggle switch to seamlessly switch between revenue & customer trend graphs
+- Implement a toggle switch to seamlessly switch between revenue & customer trend graphs
 
 🎛️ Dashboard Functionalities
 
--- Add slicers/filters for:
+- Add slicers/filters for:
 
--- Sales mode
+- Sales mode
 
--- Age group
+- Age group
 
--- City
+- City
+
+- Month
+
+- Policy ID
 
 #### Live Dashboard 
-    (https://lnkd.in/d7F6ewHh)
+   (https://app.powerbi.com/view?r=eyJrIjoiMzY3YTBkY2MtNDRjMS00NDBlLTgzMzgtNmRhZjBhZTBhZDExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3959003ddddc66c6cef3)
     
-
-
-Month
-
-Policy ID
+    
+   
+    
